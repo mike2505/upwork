@@ -2,3 +2,4 @@ moviepy==1.0.3
 requests==2.27.1
 selenium==4.7.2
 undetected_chromedriver==3.1.7
+yt-dlp
